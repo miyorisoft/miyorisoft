@@ -33,6 +33,7 @@ class SayomiYori:
         "AI/LLM: RAG (pgvector), Agents, MCP, multi-provider",
         "CI/CD, Docker, Kubernetes, Observability",
         "WebSockets & real-time systems",
+        "Strava / third-party OAuth 2.0 integrations",
     ]
     
     looking_for = "Backend position in a team with code review & engineering culture"
@@ -62,6 +63,9 @@ class SayomiYori:
 
 **`AI / LLM`**
 
+![Qdrant](https://img.shields.io/badge/Qdrant-1a2332?style=for-the-badge&logoColor=a3d9b1)
+![Claude API](https://img.shields.io/badge/Claude_API-1a2332?style=for-the-badge&logo=anthropic&logoColor=a3d9b1)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a2332?style=for-the-badge&logo=openai&logoColor=a3d9b1)
 ![pgvector](https://img.shields.io/badge/pgvector-1a2332?style=for-the-badge&logo=postgresql&logoColor=a3d9b1)
 ![Gemini](https://img.shields.io/badge/Gemini-1a2332?style=for-the-badge&logo=google&logoColor=a3d9b1)
 ![MCP](https://img.shields.io/badge/MCP-1a2332?style=for-the-badge&logo=anthropic&logoColor=a3d9b1)
@@ -89,6 +93,27 @@ class SayomiYori:
 ## 🏗️ Featured Projects
 
 <table>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏃 [Runner Diary / NeuroTrainer](https://github.com/sayomiyori/RunnerDiary_Showcase)
+**Commercial · Production · AI running coach, two platforms**
+
+`FastAPI` `Qdrant` `Claude Haiku/Sonnet` `GPT-4o-mini` `Redis` `Strava API` `React 19` `TMA`
+
+- 🔐 Two JWT auth flows: Telegram initData for TMA, Login Widget + Redis polling for web
+- 🧠 RAG: GPT-4o-mini categorization → text-embedding-3-small → Qdrant → rerank → Claude
+- 📚 16,778 chunks · 72 scientific docs · 14 categories · semantic cache in Redis
+- 🏃 Strava OAuth 2.0 + webhook → background TrainingDraft → Telegram inline keyboard
+- 🚀 Two platforms (TMA + web dashboard) on one async backend · VPS prod · closed beta
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [AgentHub](https://github.com/sayomiyori/AgentHub)
+...
+    
 <tr>
 <td width="50%" valign="top">
 
