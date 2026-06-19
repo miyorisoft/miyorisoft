@@ -11,7 +11,7 @@
 <!-- SOCIAL BADGES -->
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-sayomiyori.github.io-0d1117?style=for-the-badge&labelColor=1a3a2a&color=0d1117)](https://sayomiyori.github.io)
 
-[![GitHub](https://img.shields.io/badge/GitHub-sayomiyori-161b22?style=flat-square&logo=github&logoColor=a3d9b1)](https://github.com/sayomiyori)
+[![GitHub](https://img.shields.io/badge/GitHub-miyorisoft-161b22?style=flat-square&logo=github&logoColor=a3d9b1)](https://github.com/miyorisoft)
 [![Telegram](https://img.shields.io/badge/Telegram-@cons3qu3nc3s-161b22?style=flat-square&logo=telegram&logoColor=a3d9b1)](https://t.me/cons3qu3nc3s)
 [![Email](https://img.shields.io/badge/Email-miyoricode@gmail.com-161b22?style=flat-square&logo=gmail&logoColor=a3d9b1)](mailto:miyoricode@gmail.com)
 
@@ -96,7 +96,7 @@ class SayomiYori:
 <tr>
 <td width="50%" valign="top">
 
-### 🏃 [Runner Diary / NeuroTrainer](https://github.com/sayomiyori/RunnerDiary_Showcase)
+### 🏃 [Runner Diary / NeuroTrainer](https://github.com/miyorisoft/RunnerDiary_Showcase)
 **Commercial · Production · AI running coach, two platforms**
 
 `FastAPI` `Qdrant` `Claude Haiku/Sonnet` `GPT-4o-mini` `Redis` `Strava API` `React 19` `TMA`
@@ -110,7 +110,7 @@ class SayomiYori:
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [AgentHub](https://github.com/sayomiyori/AgentHub)
+### 🤖 [AgentHub](https://github.com/miyorisoft/AgentHub)
 **AI platform — RAG + Agents + MCP + multi-provider LLM**
 
 `FastAPI` `pgvector` `Celery` `Redis` `Gemini` `MCP` `Docker` `Prometheus`
@@ -128,7 +128,7 @@ class SayomiYori:
 <tr>
 <td width="50%" valign="top">
 
-### 🔄 [EventPipe](https://github.com/sayomiyori/EventPipe)
+### 🔄 [EventPipe](https://github.com/miyorisoft/EventPipe)
 **Microservice ETL pipeline — Kafka + gRPC + S3 + K8s**
 
 `FastAPI` `gRPC` `Kafka` `PostgreSQL` `MinIO` `Kubernetes` `Prometheus` `Docker`
@@ -143,7 +143,7 @@ class SayomiYori:
 </td>
 <td width="50%" valign="top">
 
-### 🔀 [TaskFlow](https://github.com/sayomiyori/TaskFlow)
+### 🔀 [TaskFlow](https://github.com/miyorisoft/TaskFlow)
 **Microservice task platform — Django + FastAPI + RabbitMQ**
 
 `Django 5` `DRF` `FastAPI` `RabbitMQ` `Redis` `Channels` `Nginx` `Docker`
@@ -160,7 +160,7 @@ class SayomiYori:
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 [URLShort](https://github.com/sayomiyori/URLShort)
+### 🔗 [URLShort](https://github.com/miyorisoft/URLShort)
 **High-performance URL shortener — ~180 RPS, 0% failures**
 
 `FastAPI` `PostgreSQL` `Redis` `Nginx` `Locust` `Prometheus` `Grafana` `Docker`
@@ -174,7 +174,7 @@ class SayomiYori:
 </td>
 <td width="50%" valign="top">
 
-### 🪝 [WebHook Manager](https://github.com/sayomiyori/WebHook_Manager)
+### 🪝 [WebHook Manager](https://github.com/miyorisoft/WebHook_Manager)
 **SaaS platform for reliable webhook delivery**
 
 `FastAPI` `Celery` `Redis` `PostgreSQL` `Prometheus` `Sentry` `Docker`
@@ -190,7 +190,7 @@ class SayomiYori:
 <tr>
 <td width="50%" valign="top">
 
-### 💬 [RealTimeChat](https://github.com/sayomiyori/RealTimeChat)
+### 💬 [RealTimeChat](https://github.com/miyorisoft/RealTimeChat)
 **WebSocket chat with horizontal scaling**
 
 `FastAPI` `WebSocket` `Redis Pub/Sub` `PostgreSQL` `JWT` `Docker`
@@ -203,7 +203,7 @@ class SayomiYori:
 </td>
 <td width="50%" valign="top">
 
-### 📚 [BookFinder API](https://github.com/sayomiyori/BookFinder-API)
+### 📚 [BookFinder API](https://github.com/miyorisoft/BookFinder-API)
 **REST API for book search & cataloging**
 
 `FastAPI` `PostgreSQL` `SQLAlchemy 2` `JWT` `Prometheus` `Grafana` `Docker`
@@ -256,12 +256,12 @@ Two auth flows on one backend — Telegram `initData` HMAC verification for TMA 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayomiyori&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a3d9b1&icon_color=7fb89e&text_color=b0b8c4&ring_color=a3d9b1" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayomiyori&layout=compact&hide_border=true&bg_color=0d1117&title_color=a3d9b1&text_color=b0b8c4&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=miyorisoft&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a3d9b1&icon_color=7fb89e&text_color=b0b8c4&ring_color=a3d9b1" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyorisoft&layout=compact&hide_border=true&bg_color=0d1117&title_color=a3d9b1&text_color=b0b8c4&langs_count=8" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayomiyori&hide_border=true&background=0d1117&stroke=1e2a3a&ring=a3d9b1&fire=7fb89e&currStreakLabel=a3d9b1&sideLabels=7fb89e&currStreakNum=b0b8c4&sideNums=b0b8c4&dates=4a5568" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=miyorisoft&hide_border=true&background=0d1117&stroke=1e2a3a&ring=a3d9b1&fire=7fb89e&currStreakLabel=a3d9b1&sideLabels=7fb89e&currStreakNum=b0b8c4&sideNums=b0b8c4&dates=4a5568" height="170"/>
 
 </div>
 
@@ -279,11 +279,11 @@ Two auth flows on one backend — Telegram `initData` HMAC verification for TMA 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayomiyori&hide_border=true&bg_color=0d1117&color=a3d9b1&line=7fb89e&point=a3d9b1&area=true&area_color=1a3a2a" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miyorisoft&hide_border=true&bg_color=0d1117&color=a3d9b1&line=7fb89e&point=a3d9b1&area=true&area_color=1a3a2a" width="95%"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sayomiyori&style=flat-square&color=7fb89e&label=Profile+Views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=miyorisoft&style=flat-square&color=7fb89e&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
@@ -294,9 +294,9 @@ Two auth flows on one backend — Telegram `initData` HMAC verification for TMA 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayomiyori/sayomiyori/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayomiyori/sayomiyori/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sayomiyori/sayomiyori/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miyorisoft/miyorisoft/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miyorisoft/miyorisoft/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/miyorisoft/miyorisoft/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
