@@ -1,88 +1,61 @@
 <div align="center">
 
-# sayomiyori.
+# <span style="color:#8B5CF6">sayomiyori.</span>
 
-### `building things that actually ship.`
+### building things that **actually ship.**
 
-**Python · Backend · AI · Automation**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,react,ts&perline=8" />
-
-<br><br>
-
-`APIs` · `async systems` · `RAG` · `LLM` · `integrations` · `automation`
+<p>
+<img src="https://img.shields.io/badge/BACKEND-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/AUTOMATION-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/WEB-06B6D4?style=flat-square"/>
+</p>
 
 </div>
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> **Python is my main tool.**
+>
+> I build backend systems, AI-powered applications, integrations and automation.
 
-### `01` — BACKEND
+<br>
 
-**Python-first development.**
+### `what I do`
 
-FastAPI · Django · SQLAlchemy · Pydantic · asyncio
+|                |                                           |
+| -------------- | ----------------------------------------- |
+| **backend**    | APIs · async systems · business logic     |
+| **AI**         | LLM · RAG · embeddings · OCR · vision     |
+| **automation** | workflows · Telegram · browser automation |
+| **product**    | web · integrations · e-commerce           |
 
-REST APIs · async services · databases · integrations
+<br>
 
-</td>
+### `stack`
 
-<td width="50%" valign="top">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,qdrant,react,ts,docker,linux&perline=10"/>
+</p>
 
-### `02` — AI
+<div align="center">
 
-**AI that solves actual problems.**
+`Python` `FastAPI` `Django` `PostgreSQL` `Redis` `Qdrant`
+`React` `TypeScript` `Docker` `RAG` `LLM`
 
-LLM APIs · RAG · embeddings · vector search
-
-OCR · vision · AI-powered workflows
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `03` — AUTOMATION
-
-**Less manual work.**
-
-Business automation · Telegram · browser automation
-
-E-commerce · external APIs · data pipelines
-
-</td>
-
-<td width="50%" valign="top">
-
-### `04` — PRODUCT
-
-**From backend to production.**
-
-React · Next.js · TypeScript · Docker · Linux
-
-Architecture · deployment · integrations
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
 <div align="center">
 
-### `build → integrate → automate → ship`
+**idea → architecture → implementation → production**
+
+</div>
 
 <br>
 
-**less ceremony. more shipping.**
-
-<br><br>
+<div align="center">
 
 [Telegram](https://t.me/sayomiyori) · [GitHub](https://github.com/sayomiyori)
 
