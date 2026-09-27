@@ -1,96 +1,78 @@
 <div align="center">
 
-<br>
-
 # sayomiyori.
 
 ### **building things that actually ship.**
-
-<br>
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/BACKEND-4F46E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI-9333EA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AUTOMATION-DB2777?style=for-the-badge"/>
 
-<br><br>
-
 </div>
+
+---
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-### `API`
+### API
 
-REST
-async
-integrations
+REST<br>
+Async<br>
+Integrations
 
 </td>
 
 <td width="25%" align="center">
 
-### `AI`
+### AI
 
-LLM
-RAG
+LLM<br>
+RAG<br>
 Vision
 
 </td>
 
 <td width="25%" align="center">
 
-### `DATA`
+### DATA
 
-PostgreSQL
-Redis
+PostgreSQL<br>
+Redis<br>
 Vector DB
 
 </td>
 
 <td width="25%" align="center">
 
-### `WEB`
+### WEB
 
-React
-Next.js
+React<br>
+Next.js<br>
 TypeScript
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,qdrant,react,nextjs,ts,docker&perline=10"/>
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,qdrant,react,nextjs,ts,docker&perline=10" />
+</p>
 
 ---
 
 <div align="center">
 
-### **I build software around problems, not technologies.**
+**I build software around problems, not technologies.**
 
-<br>
-
-backend systems · AI products · business automation · integrations
-
-<br><br>
+`backend systems` · `AI products` · `business automation` · `integrations`
 
 `architecture` · `implementation` · `deployment`
 
-<br><br>
+### **less talking. more shipping.**
 
-**less talking. more shipping.**
-
-<br><br>
-
-[Telegram](https://t.me/sayomiyori)  ·  [GitHub](https://github.com/sayomiyori)
+[Telegram](https://t.me/sayomiyori) · [GitHub](https://github.com/sayomiyori)
 
 </div>
