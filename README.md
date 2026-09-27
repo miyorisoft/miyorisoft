@@ -11,46 +11,40 @@
 
 </div>
 
----
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### API
+**API**
 
-REST<br>
-Async<br>
+REST · Async
 Integrations
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### AI
+**AI**
 
-LLM<br>
-RAG<br>
+LLM · RAG
 Vision
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### DATA
+**DATA**
 
-PostgreSQL<br>
-Redis<br>
-Vector DB
+PostgreSQL · Redis
+Vector Search
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### WEB
+**WEB**
 
-React<br>
-Next.js<br>
+React · Next.js
 TypeScript
 
 </td>
@@ -58,7 +52,7 @@ TypeScript
 </table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,qdrant,react,nextjs,ts,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,react,nextjs,ts,docker&perline=9" />
 </p>
 
 ---
