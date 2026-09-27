@@ -1,36 +1,36 @@
-# sayomiyori.
+# `sayomiyori`
 
-**Python Backend Developer**
+```text
+$ whoami
 
-Building web services, automation tools and AI-powered products.
+Python Backend Developer
+building APIs, automation & AI-powered products
+
+$ stack
+
+Python       FastAPI       Django
+PostgreSQL   Redis         Qdrant
+Docker       React         TypeScript
+RAG          LLM APIs      Telegram
+
+$ focus
+
+backend / async systems / AI / integrations
+```
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-`backend` · `async` · `AI` · `RAG` · `automation` · `integrations`
-
-### What I work with
-
-**Backend** — Python · FastAPI · Django · SQLAlchemy · Pydantic
-
-**Data** — PostgreSQL · Redis · Qdrant · pgvector
-
-**AI** — LLM APIs · RAG · Embeddings · OCR · Vision
-
-**Frontend** — React · Next.js · TypeScript · Tailwind
-
-**Infrastructure** — Docker · Linux · GitHub Actions · Nginx
-
 ### Projects
 
-**VeloxRAG** — RAG / AI application
-**TaskFlow** — backend / automation platform
+[VeloxRAG](https://github.com/sayomiyori/VeloxRAG)
 
-### Links
+### Contact
 
-[GitHub](https://github.com/sayomiyori) · [Telegram](https://t.me/sayomiyori)
+[Telegram](https://t.me/sayomiyori)
