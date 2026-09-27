@@ -1,52 +1,53 @@
 # sayomiyori.
 
-> **building things that actually ship.**
+### **backend first. product minded.**
 
-`backend` `ai` `automation` `integrations`
+I build **APIs, asynchronous systems, AI applications and automation tools** with Python.
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BACKEND-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AUTOMATION-EC4899?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WEB-06B6D4?style=for-the-badge"/>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
-### 01 — backend
+### backend
 
-**Python** is my main tool.
+**Python · FastAPI · Django · SQLAlchemy · Pydantic · asyncio**
 
-FastAPI · Django · SQLAlchemy · Pydantic · asyncio
+REST APIs · async services · background processing · integrations
 
-I build REST APIs, asynchronous services, integrations and backend systems.
+### data
 
-### 02 — intelligence
+**PostgreSQL · Redis · Qdrant · pgvector**
 
-**AI as a product feature, not a checkbox.**
+Database design · indexing · caching · migrations · vector search
 
-LLM APIs · RAG · embeddings · vector search · OCR · vision
+### ai
 
-### 03 — automation
+**LLM APIs · RAG · embeddings · OCR · vision**
 
-**turning repetitive workflows into software.**
+Building AI features that fit into real products and workflows.
 
-Business automation · Telegram · browser automation · e-commerce · external APIs
+### product
 
-### 04 — everything around it
+**React · Next.js · TypeScript · Telegram · Docker**
 
-PostgreSQL · Redis · Qdrant · React · TypeScript · Docker · Linux
+From backend architecture to frontend, integrations and deployment.
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,qdrant,react,typescript,docker,linux&perline=10" />
-</p>
+### principles
 
-### philosophy
+`simple architecture` · `useful automation` · `ship > overengineer`
 
-**less ceremony. more shipping.**
+**building software, not just writing code.**
 
 [Telegram](https://t.me/sayomiyori) · [GitHub](https://github.com/sayomiyori)
