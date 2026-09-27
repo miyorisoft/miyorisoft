@@ -1,44 +1,46 @@
+<div align="center">
+
 # sayomiyori.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILDING-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BACKEND-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AUTOMATION-EC4899?style=for-the-badge"/>
-</p>
+### `building things that actually ship.`
 
-<h3 align="center">building things that actually ship.</h3>
+**Python · Backend · AI · Automation**
 
-<p align="center">
-  APIs · AI · automation · integrations · web
-</p>
+<br>
 
----
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,react,ts&perline=8" />
+
+<br><br>
+
+`APIs` · `async systems` · `RAG` · `LLM` · `integrations` · `automation`
+
+</div>
+
+<br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### backend
+### `01` — BACKEND
 
-Python
-FastAPI
-Django
-SQLAlchemy
-Pydantic
-asyncio
+**Python-first development.**
+
+FastAPI · Django · SQLAlchemy · Pydantic · asyncio
+
+REST APIs · async services · databases · integrations
 
 </td>
+
 <td width="50%" valign="top">
 
-### data
+### `02` — AI
 
-PostgreSQL
-Redis
-Qdrant
-pgvector
-SQL
-Vector Search
+**AI that solves actual problems.**
+
+LLM APIs · RAG · embeddings · vector search
+
+OCR · vision · AI-powered workflows
 
 </td>
 </tr>
@@ -46,45 +48,42 @@ Vector Search
 <tr>
 <td width="50%" valign="top">
 
-### AI
+### `03` — AUTOMATION
 
-LLM APIs
-RAG
-Embeddings
-OCR
-Vision
-AI integrations
+**Less manual work.**
+
+Business automation · Telegram · browser automation
+
+E-commerce · external APIs · data pipelines
 
 </td>
+
 <td width="50%" valign="top">
 
-### product
+### `04` — PRODUCT
 
-React
-Next.js
-TypeScript
-Telegram
-Docker
-Linux
+**From backend to production.**
+
+React · Next.js · TypeScript · Docker · Linux
+
+Architecture · deployment · integrations
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,qdrant,react,typescript,docker&perline=9" />
-</p>
+<div align="center">
 
-### approach
-
-**build → integrate → automate → ship**
-
-I care about turning ideas into working software — from backend architecture and data to integrations, AI features and deployment.
+### `build → integrate → automate → ship`
 
 <br>
 
-**less talking. more shipping.**
+**less ceremony. more shipping.**
 
-[Telegram](https://t.me/sayomiyori)
+<br><br>
+
+[Telegram](https://t.me/sayomiyori) · [GitHub](https://github.com/sayomiyori)
+
+</div>
