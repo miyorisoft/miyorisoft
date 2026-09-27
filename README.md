@@ -57,15 +57,30 @@ TypeScript
 
 ---
 
+### Development
+
+**Backend**
+Python · FastAPI · Django · SQLAlchemy · Pydantic · asyncio
+
+**Databases & data**
+PostgreSQL · Redis · Qdrant · pgvector · SQL
+
+**AI / LLM**
+RAG · embeddings · vector search · LLM APIs · OCR · Vision
+
+**Frontend & infrastructure**
+React · Next.js · TypeScript · Tailwind · Docker · Linux · GitHub Actions
+
+**Integrations**
+Telegram · REST APIs · Webhooks · OAuth · third-party services
+
+<br>
+
+`architecture` · `implementation` · `integrations` · `deployment`
+
+---
+
 <div align="center">
-
-**I build software around problems, not technologies.**
-
-`backend systems` · `AI products` · `business automation` · `integrations`
-
-`architecture` · `implementation` · `deployment`
-
-### **less talking. more shipping.**
 
 [Telegram](https://t.me/sayomiyori) · [GitHub](https://github.com/sayomiyori)
 
