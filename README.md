@@ -1,17 +1,27 @@
 # sayomiyori.
 
-**Python Backend Developer**
+### `python` / `backend` / `ai`
 
-I build web services, automation systems and AI-powered products.
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│  building                                   │
+│                                             │
+│  APIs              AI applications          │
+│  async systems     automation               │
+│  integrations      web services             │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,react,typescript&perline=8" />
+**Python · FastAPI · Django · PostgreSQL · Redis · React · Docker · RAG**
 
-<br><br>
-
-`backend` `async` `apis` `ai` `rag` `automation` `integrations`
-
-<br>
-
-[Telegram](https://t.me/sayomiyori) · [GitHub](https://github.com/sayomiyori)
+[Telegram](https://t.me/sayomiyori)
