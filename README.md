@@ -1,38 +1,26 @@
 # sayomiyori.
 
-### `backend` × `ai` × `automation`
+**Python Backend Developer · AI · Automation**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,docker,react,ts&perline=8" />
+I build APIs, backend systems and AI-powered products.
+
+<p>
+<img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,docker,react,ts&perline=8" />
 </p>
 
-> Building production software with Python, APIs, AI and automation.
+`Python` `FastAPI` `PostgreSQL` `Redis` `Docker`
+`RAG` `LLM` `React` `Telegram` `Automation`
 
-<br>
+---
 
-**01 / Backend**
+### Work
 
-`Python` `FastAPI` `Django` `SQLAlchemy` `Pydantic` `asyncio`
+Backend systems · AI products · APIs · integrations · automation
 
-**02 / Data**
+### Projects
 
-`PostgreSQL` `Redis` `Qdrant` `pgvector`
+[VeloxRAG](https://github.com/sayomiyori/VeloxRAG)
 
-**03 / AI**
-
-`RAG` `LLM APIs` `Embeddings` `OCR` `Vision`
-
-**04 / Product**
-
-`Telegram` `Mini Apps` `Integrations` `Automation` `E-commerce`
-
-<br>
-
-### selected work
-
-**VeloxRAG**
-RAG / AI system → [repository](https://github.com/sayomiyori/VeloxRAG)
-
-### say hi
+---
 
 [Telegram](https://t.me/sayomiyori) · [GitHub](https://github.com/sayomiyori)
